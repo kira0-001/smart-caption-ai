@@ -1,7 +1,5 @@
 # 📸 Full-Stack AI Image Captioning 
 
-![AI Image Captioning Demo](demo.gif) *(Add your GIF here before pushing to GitHub)*
-
 ## 🚀 Overview
 This is a production-ready **Next.js 15 Web Application** that leverages Cloud AI to generate highly accurate natural language descriptions of images. Built with an extreme focus on premium UI/UX, the app features a responsive Dark Mode Glassmorphism interface, drag-and-drop uploads, text-to-speech functionality, and seamless integration with state-of-the-art vision models.
 
